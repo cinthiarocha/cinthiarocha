@@ -1,10 +1,10 @@
 ## Cinthia Rocha - Analista de Dados em Formação
 
-👋 Oi, eu sou [Cinthia Rocha](https://github.com/cinthiarocha). 
+👋 Oi, eu sou [Cinthia Rocha](https://github.com/cinthiarocha), estudante de Administração com enfâse em Ciência de Dados.
 
-👀 Estou interessada em análise de dados. 
+👀 Estou interessada em Análise de Dados e Business Intelligence.
 
-🌱 Atualmente estou aprendendo Python, Power BI e Cloud AWS para me aprofundar nessa área. 
+🌱 Atualmente estou aprendendo Python, R, Power BI e Cloud AWS para me aprofundar nessa área. 
 
 💞️ Estou buscando colaboração em projetos de dados para aprimorar minhas habilidades e aprender com outras pessoas. 
  
