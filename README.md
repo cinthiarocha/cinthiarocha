@@ -5,8 +5,6 @@ Oi, eu sou [Cinthia Rocha](https://github.com/cinthiarocha).
  Atualmente estou aprendendo Python. Power BI e Cloud AWS para me aprofundar nessa área. 
 
  Estou buscando colaboração em projetos de dados para aprimorar minhas habilidades e aprender com outras pessoas. 
-
- Como entrar em contato comigo: cinthia.rocha@live.com
  
 ⚡ Curiosidade: Amo gatos e plantas. 
 
