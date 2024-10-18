@@ -6,7 +6,7 @@
 
 🌱 Atualmente estou aprendendo Python, R, Power BI e Cloud AWS para me aprofundar nessa área. 
 
-💞️ Estou buscando colaboração em projetos de dados para aprimorar minhas habilidades e aprender com outras pessoas. 
+💞️ Estou à procura de oportunidades para colaborar em projetos de dados desafiadores. Entre em contato para discutirmos como podemos trabalhar juntos! 
  
 ⚡ Curiosidade: Amo gatos e plantas. 
 
