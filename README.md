@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 ## **My stats**
 
 ![Cinthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinthiarocha&theme=catppuccin_latte&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiarocha&theme=catppuccin_latte&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiarocha&theme=catppuccin_latte&layout=compact)
